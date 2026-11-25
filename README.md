@@ -5,14 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandagopan123" alt="nandagopan123" /></a> </p>
 
-#<p align="left"> <a href="https://x.com/Nanda_Gopakumar" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nanda_gopakumar" target="blank"><img src="https://img.shields.io/twitter/follow/nanda_gopakumar?logo=twitter&style=for-the-badge" alt="nanda_gopakumar" /></a> </p>
 
 - 🌱 I’m currently learning **Programming**
 
 - 💬 Ask me about **programming languages**
 
+- 📫 How to reach me **nandagopan2005n@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/nanda_gopakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nanda_gopakumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nanda gopan h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nanda gopan h" height="30" width="40" /></a>
 <a href="https://instagram.com/nanda_gopakumarmadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanda_gopakumarmadhav" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discordapp.com/users/1387757665832144906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1387757665832144906" height="30" width="40" /></a>
